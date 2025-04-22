@@ -27,7 +27,6 @@ A desktop messaging application built with Java Swing. Users can create an accou
 For some parts of the program I was unsure of how to complete it so I used external sources.
 
 - W3Schools - This website helped me with regex regarding validating the password and phone number. - W3Schools.com (no date b). https://www.w3schools.com/java/java_regex.asp (Accessed: April 19, 2025).
-
 ‌
 - W3Schools - Additianlly helped me with processing a file - W3Schools.com (no date). https://www.w3schools.com/java/java_files_create.asp (Accessed: April 20, 2025).
 
